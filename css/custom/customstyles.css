@@ -4,12 +4,14 @@
         float: right !important;
     }
 }
+/*
 @media (min-width: 1000px) {
     ul#mysidebar {
-/*        width: 100% !important; */ /* Does not work for MS Edge browser */
+/*        width: 100% !important; * / /* Does not work for MS Edge browser * /
         float: right !important;
     }
 }
+*/
 /* Override page to display on whole screen instead of static width. */
 .container {
     width: 95% !important;
