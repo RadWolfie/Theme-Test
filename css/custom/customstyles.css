@@ -4,3 +4,15 @@
         float: right;
     }
 }
+/* Override page to display on whole screen instead of static width. */
+@media (min-width: 768px) {
+    .container {
+        width: 95% !important;
+    }
+    .col-md-9 {
+        width: 80% !important;
+    }
+    .col-md-3 {
+        width: 20% !important;
+    }
+}
