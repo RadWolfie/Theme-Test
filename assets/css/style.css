@@ -1,26 +1,24 @@
 ﻿/* Override sidebar to use on right side instead of left side from bootstrap */
+/* Don't move to right side for sidebar, commented out are for relocate to right side. */
 @media (min-width: 991px) {
     .col-md-3 {
-        float: right !important;
+/*        float: right !important; */
+        float: left !important;
+        position: relative !important;
     }
     .col-md-9 {
         width: 75% !important;
         float: left !important;
     }
     ul#mysidebar {
-        right: 0;
-        position: absolute;
+/*        right: 0;
+        position: absolute; */
         width: 225px;
     }
-    .affix {
+/*    .affix {
         right: 25px !important;
         position: fixed !important;
-    }
-}
-@media (max-width: 991px) {
-    .col-md-3 {
-        position: relative !important;
-    }
+    }*/
 }
 /* Override page to display on whole screen instead of static width. */
 .container {
