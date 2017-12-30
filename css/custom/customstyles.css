@@ -13,6 +13,11 @@
         position: fixed !important;
     }
 }
+@media (max-width: 991px) {
+    .col-md-3 {
+        position: relative !important;
+    }
+}
 /* Override page to display on whole screen instead of static width. */
 .container {
     width: 95% !important;
