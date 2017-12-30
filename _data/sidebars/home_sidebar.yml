@@ -11,6 +11,8 @@ entries:
     - title: Home
       url: /index.html
       output: web
+      type: homepage
+
     - title: News
       url: /news.html
       output: web
@@ -21,9 +23,20 @@ entries:
     - title: Get Started
       url: /wiki/index.html
       output: web
+      type: homepage
+
+    - title: TOC
+      url: /wiki/toc.html
+      output: web, pdf
+
+    - title: TOC Disabled
+      url: /wiki/toc_disabled.html
+      output: web, pdf
+
     - title: FAQ
       url: /wiki/faq.html
       output: web
+
     - title: About
       url: /wiki/about.html
       output: web
