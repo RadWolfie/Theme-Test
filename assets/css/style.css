@@ -16,6 +16,9 @@
     .affix {
         position: fixed !important;
     }
+    div#toc {
+        float: right !important;
+    }
 }
 /* Override page to display on whole screen instead of static width. */
 .container {
