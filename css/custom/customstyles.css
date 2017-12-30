@@ -5,8 +5,12 @@
     }
 }
 ul#mysidebar {
-    right: 25px;
+    right: 0;
     position: absolute;
+}
+.affix {
+    right: 50px !important;
+    position: fixed !important;
 }
 /* Override page to display on whole screen instead of static width. */
 .container {
