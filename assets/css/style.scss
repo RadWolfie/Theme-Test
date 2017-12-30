@@ -1,4 +1,7 @@
-﻿/* Override sidebar to use on right side instead of left side from bootstrap */
+﻿---
+---
+
+/* Override sidebar to use on right side instead of left side from bootstrap */
 @media (min-width: 991px) {
     .col-md-3 {
         float: right !important;
