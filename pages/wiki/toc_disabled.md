@@ -3,7 +3,7 @@ title: TOC Disabled page
 keywords: toc
 summary: "TOC Disabled page"
 sidebar: wiki_sidebar
-permalink: /wiki/toc.html
+permalink: /wiki/toc_disabled.html
 folder: wiki
 toc: false
 ---
