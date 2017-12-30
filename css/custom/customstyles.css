@@ -1,7 +1,11 @@
 ﻿/* Override sidebar to use on right side instead of left side from bootstrap */
-@media (min-width: 992px) {
+@media (min-width: 991px) {
     .col-md-3 {
         float: right !important;
+    }
+    .col-md-9 {
+        width: 75% !important;
+        float: left !important;
     }
     ul#mysidebar {
         right: 0;
