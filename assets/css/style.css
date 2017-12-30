@@ -3,12 +3,17 @@
     .col-md-3 {
         float: left !important;
         position: relative !important;
+        width: 250px !important;
     }
     .col-md-9 {
+        width: 70% !important;
         float: left !important;
     }
     ul#mysidebar {
         width: 225px;
+    }
+    .affix {
+        position: fixed !important;
     }
 }
 /* Override page to display on whole screen instead of static width. */
