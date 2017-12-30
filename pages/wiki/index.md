@@ -3,7 +3,7 @@ title: Wiki front page
 tags: [getting_started]
 summary: "Wiki front page"
 sidebar: wiki_sidebar
-permalink: /wiki/index.html
+permalink: /wiki_index.html
 folder: wiki
 ---
 

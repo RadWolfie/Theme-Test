@@ -19,13 +19,13 @@ entries:
     output: web
     folderitems:
     - title: Front
-      url: /wiki/index.html
+      url: /wiki_index.html
       output: web
     - title: FAQ
-      url: /wiki/faq.html
+      url: /wiki_faq.html
       output: web
     - title: About
-      url: /wiki/about.html
+      url: /wiki_about.html
       output: web
 
   - title: Jekyll Doc Theme

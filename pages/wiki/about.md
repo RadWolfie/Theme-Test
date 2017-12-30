@@ -3,7 +3,7 @@ title: About page
 keywords: about
 summary: "About page"
 sidebar: wiki_sidebar
-permalink: /wiki/about.html
+permalink: /wiki_about.html
 folder: wiki
 ---
 
