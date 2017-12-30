@@ -8,6 +8,29 @@ entries:
   - title: Links
     output: web
     folderitems:
+    - title: Home
+      url: /index.html
+      output: web
     - title: News
       url: /news.html
+      output: web
+
+  - title: Wiki
+    output: web
+    folderitems:
+    - title: Front
+      url: /wiki/index.html
+      output: web
+    - title: FAQ
+      url: /wiki/faq.html
+      output: web
+    - title: About
+      url: /wiki/about.html
+      output: web
+
+  - title: Jekyll Doc Theme
+    output: web
+    folderitems:
+    - title: About
+      url: /theme_about.html
       output: web
