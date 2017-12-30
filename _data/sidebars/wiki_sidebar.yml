@@ -3,7 +3,6 @@
 entries:
 - title: sidebar
   product: Wiki
-  version: x.x
   folders:
 
   - title: Overview

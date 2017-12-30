@@ -18,7 +18,7 @@ entries:
   - title: Wiki
     output: web
     folderitems:
-    - title: Front
+    - title: Get Started
       url: /wiki_index.html
       output: web
     - title: FAQ

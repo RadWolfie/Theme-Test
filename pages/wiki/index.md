@@ -1,7 +1,7 @@
 ---
-title: Wiki front page
+title: Get Started
 tags: [getting_started]
-summary: "Wiki front page"
+summary: "Wiki get started"
 sidebar: wiki_sidebar
 permalink: /wiki_index.html
 folder: wiki
