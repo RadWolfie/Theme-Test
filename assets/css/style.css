@@ -5,10 +5,11 @@
         position: relative !important;
         width: 250px !important;
     }
-    .col-md-9,
-    .col-md-12 {
-        width: 70% !important;
-        float: left !important;
+    .col-md-9
+        width: auto !important;
+        float: none !important;
+
+        margin-left: 250px !important;
     }
     ul#mysidebar {
         width: 225px;
