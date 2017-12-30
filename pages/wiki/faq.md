@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /wiki_faq.html
+permalink: /wiki/faq.html
 sidebar: wiki_sidebar
 keywords: frequently asked questions, FAQ, question and answer
 summary: "FAQ page"
