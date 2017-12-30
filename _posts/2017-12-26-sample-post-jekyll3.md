@@ -1,8 +1,8 @@
 ---
-title:  "Sample post 2"
+title:  "Sample post 3"
 published: true
-permalink: samplepost2.html
-summary: "This is some summary frontmatter for my sample post 2."
+permalink: /news/samplepost3.html
+summary: "This is some summary frontmatter for my sample post 3."
 tags: [news, getting_started]
 ---
 
