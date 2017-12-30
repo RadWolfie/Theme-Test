@@ -5,12 +5,9 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: Links
     output: web
     folderitems:
     - title: News
       url: /news.html
-      output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
       output: web
